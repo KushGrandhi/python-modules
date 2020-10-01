@@ -1,4 +1,3 @@
-# prompting user for input
 text = input("Text: ")
 
 # defining variables
